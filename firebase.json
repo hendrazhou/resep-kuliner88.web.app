@@ -1,0 +1,13 @@
+{
+  "hosting": {
+  
+  "site": "resep-kuliner88",
+  
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
